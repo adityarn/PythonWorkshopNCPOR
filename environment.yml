@@ -1,0 +1,14 @@
+name: oceanpy
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - numpy
+  - conda-forge::matplotlib
+  - conda-forge::scipy
+  - conda-forge::xarray
+  - conda-forge::cartopy
+  - conda-forge::gsw
+  - conda-forge::pandas
+  - conda-forge::netCDF4
+  - conda-forge::jupyterlab
