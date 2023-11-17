@@ -37,7 +37,7 @@ Python notebooks are interactive environments where you can write code, visualiz
 |7| Gridded datasets: analysis using Xarray, mapping using Cartopy|
 
 
-A great source of reference material for much of the topics that we will cover in the workshop is JakeVanderPlas’ book, Python Data Science Handbook. This book has free Python notebooks too, which you can download and start learning interactively from! You can reach out to me at a.narayanan@soton.ac.uk if you have any questions. I look forward to meeting you all and beginning our Python journey together!
+A great source of reference material for much of the topics that we will cover in the workshop is [JakeVanderPlas’ book, Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/). This book has free Python notebooks too, which you can download and start learning interactively from! You can reach out to me at a.narayanan@soton.ac.uk if you have any questions. I look forward to meeting you all and beginning our Python journey together!
 
 
 ### Course Schedule
