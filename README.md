@@ -1,4 +1,4 @@
-# PythonWorkshopNCPOR
+# Python Workshop for the National Center for Polar and Ocean Research (NCPOR)
 
 ## Getting Getting Started
 
@@ -37,11 +37,20 @@ Python notebooks are interactive environments where you can write code, visualiz
 |7| Gridded datasets: analysis using Xarray, mapping using Cartopy|
 
 
+
+### Important Note
+
+To get the most out of this course, I recommend that you follow along each lesson while running the same Python notebook on your laptop. This will allow you to learn by interacting with the code live in the classroom. I encourage you to play with the code, modify things, and break things if you must. This is the best way to learn by doing!
+
+The pace in the class may be too overwhelming for many beginners. But this course is only meant to provide an introduction to programming and to give you tools to try and learn and solve problems on your own. We will learn how to read error messages and how to use tools such as the package documentation, Stackoverflow, and ChatGPT to fix our code.
+
 A great source of reference material for much of the topics that we will cover in the workshop is [JakeVanderPlas’ book, Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/). This book has free Python notebooks too, which you can download and start learning interactively from! You can reach out to me at a.narayanan@soton.ac.uk if you have any questions. I look forward to meeting you all and beginning our Python journey together!
 
 
 ### Course Schedule
 
-1. Day 1: [Date TBA], [Webex link TBA]
-1. Day 2:
-1. Day 3:
+1. Day 1: December 5th, 2023, [Webex link TBA]
+1. Day 2: December 12th, 2023, [Webex link TBA]
+1. Day 3: [Date TBA], [Webex link TBA]
+
+
