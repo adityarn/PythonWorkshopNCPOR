@@ -51,6 +51,6 @@ A great source of reference material for much of the topics that we will cover i
 
 |Session 1| 10am to 12pm| December 5th, 2023| [Webex link TBA]|
 |Session 2| 10am to 12pm| December 12th, 2023| [Webex link TBA]|
-|Session 3| [Date TBA]| [Webex link TBA]|
+|Session 3| Time TBA |[Date TBA]| [Webex link TBA]|
 
 
