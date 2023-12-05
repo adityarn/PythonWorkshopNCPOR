@@ -1,6 +1,6 @@
 # Python Workshop for the National Center for Polar and Ocean Research (NCPOR)
 
-## Getting Getting Started
+## Getting Started
 
 Hello Everyone!
 
